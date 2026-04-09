@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfólio - Lucas Bordalo</title>
+  <style>
+    body {
+      font-family: Arial;
+      background-color: #0f172a;
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background: #1e293b;
+      padding: 20px;
+      text-align: center;
+    }
+
+    section {
+      padding: 20px;
+      border-bottom: 1px solid #334155;
+    }
+
+    h1, h2 {
+      color: #38bdf8;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Lucas Bordalo</h1>
+  <p>Estudante de Ciência da Computação</p>
+</header>
+
+<section>
+  <h2>Perfil</h2>
+  <p>Sou um profissional dinâmico e dedicado, com foco na resolução de problemas e apaixonado por tecnologia. Atualmente desenvolvendo habilidades em HTML e CSS.</p>
+</section>
+
+<section>
+  <h2>Currículo</h2>
+  <p>Cursando Ciência da Computação. Experiência com vendas online e manutenção de computadores.</p>
+</section>
+
+<section>
+  <h2>Projetos</h2>
+  <ul>
+    <li>Site interativo em HTML</li>
+    <li>Modelo de banco de dados acadêmico</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Habilidades</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Pacote Office</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Contato</h2>
+  <p>Email: lucas.memoria@gmail.com</p>
+</section>
+
+</body>
+</html>
