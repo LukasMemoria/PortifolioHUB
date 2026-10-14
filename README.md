@@ -5,6 +5,7 @@ Portfólio acadêmico e pessoal de **Lucas Bordalo Memoria**, estudante de Ciên
 ## Acesse
 
 - **Site:** [LukasMemoria.github.io/PortifolioHUB](https://lukasmemoria.github.io/PortifolioHUB/)
+- **Guia do Study Hub:** [Etapa Inicial](https://lukasmemoria.github.io/PortifolioHUB/study-hub.html)
 - **Repositório:** [github.com/LukasMemoria/PortifolioHUB](https://github.com/LukasMemoria/PortifolioHUB)
 - **LinkedIn:** [linkedin.com/in/lucas-memoria-81130034b](https://www.linkedin.com/in/lucas-memoria-81130034b/)
 
@@ -12,30 +13,33 @@ Portfólio acadêmico e pessoal de **Lucas Bordalo Memoria**, estudante de Ciên
 
 ```text
 .
-├── assets/
-│   └── css/
-│       └── style.css
+├── assets/css/
 ├── docs/
-│   └── planejamento.md
+│   ├── planejamento.md
+│   └── etapa-inicial-study-hub.md
+├── Meu_Study_Hub_TI/
+│   ├── 01_Apresentacao_e_Perfil/
+│   ├── 02_Disciplinas_Atuais/
+│   │   ├── Bootcamp_I/
+│   │   │   ├── Atividades_e_Entregas/
+│   │   │   └── Anotacoes_e_Resumos/
+│   │   └── Outras_Disciplinas/
+│   └── 03_Projetos_e_Certificados/
 ├── projetos/
-│   ├── ecogrow/
-│   │   └── README.md
-│   └── portifoliohub/
-│       └── README.md
-├── .github/
-│   └── workflows/
-│       └── pages.yml
+│   ├── ecogrow/README.md
+│   └── portifoliohub/README.md
+├── .github/workflows/pages.yml
 ├── index.html
+├── study-hub.html
 └── README.md
 ```
 
-## Projetos
+## Projetos e entregas
 
 - [EcoGrow](projetos/ecogrow/README.md) — proposta IoT para acompanhar as condições do cultivo e organizar informações úteis à rotina agrícola.
 - [PortifolioHUB](projetos/portifoliohub/README.md) — página de portfólio publicada com GitHub Pages.
-- [Planejamento do repositório](docs/planejamento.md) — organização e próximos passos.
-
-## Integração com LinkedIn
+- [Study Hub — página](study-hub.html) — apresentação web do planejamento da etapa inicial.
+- [Guia de Arquitetura](docs/etapa-inicial-study-hub.md) — perfil, objetivos, árvore de pastas, matriz de disciplinas e compromissos de autoria.
 
 O perfil do LinkedIn está ligado à página inicial do portfólio. Os projetos PortifolioHUB e EcoGrow também estão documentados na seção **Projetos** do perfil, com links para o site ou para sua documentação no GitHub.
 
