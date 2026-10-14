@@ -32,7 +32,7 @@ Portfólio acadêmico e pessoal de **Lucas Bordalo Memoria**, estudante de Ciên
 
 ## Projetos
 
-- [EcoGrow](projetos/ecogrow/README.md) — sistema IoT para monitoramento agrícola.
+- [EcoGrow](projetos/ecogrow/README.md) — proposta IoT para acompanhar as condições do cultivo e organizar informações úteis à rotina agrícola.
 - [PortifolioHUB](projetos/portifoliohub/README.md) — página de portfólio publicada com GitHub Pages.
 - [Planejamento do repositório](docs/planejamento.md) — organização e próximos passos.
 
