@@ -6,8 +6,7 @@ Portfólio acadêmico e pessoal de **Lucas Bordalo Memoria**, estudante de Ciên
 
 - **Site:** [LukasMemoria.github.io/PortifolioHUB](https://lukasmemoria.github.io/PortifolioHUB/)
 - **Repositório:** [github.com/LukasMemoria/PortifolioHUB](https://github.com/LukasMemoria/PortifolioHUB)
-
-> Se o site ainda não estiver publicado, aguarde a conclusão do primeiro fluxo de implantação em **Actions** e confira a configuração de **Settings → Pages**.
+- **LinkedIn:** [linkedin.com/in/lucas-memoria-81130034b](https://www.linkedin.com/in/lucas-memoria-81130034b/)
 
 ## Estrutura
 
@@ -36,6 +35,10 @@ Portfólio acadêmico e pessoal de **Lucas Bordalo Memoria**, estudante de Ciên
 - [PortifolioHUB](projetos/portifoliohub/README.md) — página de portfólio publicada com GitHub Pages.
 - [Planejamento do repositório](docs/planejamento.md) — organização e próximos passos.
 
+## Integração com LinkedIn
+
+O perfil do LinkedIn está ligado à página inicial do portfólio. Os projetos PortifolioHUB e EcoGrow também estão documentados na seção **Projetos** do perfil, com links para o site ou para sua documentação no GitHub.
+
 ## Desenvolvimento local
 
 Abra `index.html` no navegador. O site usa HTML e CSS sem dependências ou etapa de compilação.
@@ -53,7 +56,7 @@ Crie uma branch para cada mudança, escreva mensagens de commit que resumam a al
 
 ## Publicação
 
-O workflow em `.github/workflows/pages.yml` publica o conteúdo da branch `main` no GitHub Pages. Em **Settings → Pages**, selecione **GitHub Actions** como origem se ainda não estiver configurada. A URL do site ficará disponível em **Settings → Pages** após a primeira implantação bem-sucedida.
+O workflow em `.github/workflows/pages.yml` publica o conteúdo da branch `main` no GitHub Pages. Acesse o histórico das implantações na aba **Actions** do repositório.
 
 ## Tecnologias
 
