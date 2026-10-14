@@ -15,6 +15,7 @@ Centralizar a apresentação de projetos acadêmicos e pessoais em um site está
 - Cartões com resumo e links para a documentação individual.
 - Layout responsivo para telas menores.
 - Publicação automática do conteúdo do repositório no GitHub Pages.
+- Acesso direto ao perfil profissional no LinkedIn.
 
 ## Tecnologias e ferramentas
 
@@ -36,7 +37,7 @@ Centralizar a apresentação de projetos acadêmicos e pessoais em um site está
 
 ## Como visualizar
 
-Abra [o site publicado](https://lukasmemoria.github.io/PortifolioHUB/) em um navegador. Para visualizar uma cópia local, clone o repositório e abra `index.html):
+Abra [o site publicado](https://lukasmemoria.github.io/PortifolioHUB/) em um navegador. Para visualizar uma cópia local, clone o repositório e abra `index.html`:
 
 ```bash
 git clone https://github.com/LukasMemoria/PortifolioHUB.git
@@ -44,6 +45,10 @@ cd PortifolioHUB
 ```
 
 Não são necessárias dependências ou compilação.
+
+## Integração com LinkedIn
+
+O site direciona para [o perfil de Lucas Memoria no LinkedIn](https://www.linkedin.com/in/lucas-memoria-81130034b/). A seção **Projetos** do perfil inclui o PortifolioHUB e o EcoGrow, com links para os artefatos publicados.
 
 ## Publicação
 
