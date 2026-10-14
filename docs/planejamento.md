@@ -19,6 +19,12 @@ Organizar projetos acadêmicos e pessoais em um portfólio público, com documen
 | EcoGrow | IoT e monitoramento agrícola | [README](../projetos/ecogrow/README.md) |
 | PortifolioHUB | Desenvolvimento web | [README](../projetos/portifoliohub/README.md) |
 
+## Integração com LinkedIn
+
+- O portfólio direciona visitantes ao perfil profissional do LinkedIn.
+- A seção Projetos do perfil apresenta PortifolioHUB e EcoGrow.
+- As descrições dos projetos incluem os links para a página publicada ou para a documentação correspondente no GitHub.
+
 ## Boas práticas de versionamento
 
 1. Manter mudanças pequenas e relacionadas.
@@ -28,7 +34,7 @@ Organizar projetos acadêmicos e pessoais em um portfólio público, com documen
 
 ## Próximas etapas
 
-- Adicionar repositórios, capturas de tela e detalhes técnicos dos projetos quando estiverem disponíveis.
-- Completar os READMEs com tecnologias, funcionalidades, instruções de execução e autoria.
+- Adicionar capturas de tela e detalhes técnicos dos projetos quando estiverem disponíveis.
+- Completar os READMEs com instruções de execução e contribuições quando pertinentes.
 - Revisar a página após cada atualização e manter os links funcionando.
-- Confirmar a publicação em **Settings → Pages** e no workflow em **Actions**.
+- Acompanhar a publicação no workflow em **Actions**.
