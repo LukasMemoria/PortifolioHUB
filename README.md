@@ -1,6 +1,6 @@
 # PortifolioHUB
 
-Portfólio acadêmico e pessoal de **Lucas Bordalo Memoria**, estudante de Ciência da Computação no CEUB Taguatinga. O site apresenta projetos e documenta sua evolução na área de tecnologia.
+Portfólio acadêmico e pessoal de **Lucas Bordalo Memoria**, estudante de Ciência de Dados no CEUB Taguatinga. O site apresenta projetos e documenta sua evolução na área de tecnologia.
 
 ## Acesse
 
