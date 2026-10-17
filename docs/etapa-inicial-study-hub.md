@@ -1,13 +1,13 @@
 # Study Hub — Guia de Arquitetura (Etapa Inicial)
 
 **Estudante:** Lucas Bordalo Memoria  
-**Curso:** Ciência da Computação — CEUB Taguatinga  
+**Curso:** Ciência de Dados — CEUB Taguatinga  
 **Polo/turma:** a completar  
 **Etapa:** Bootcamp I — planejamento da identidade profissional e da organização acadêmica
 
 ## 1. Perfil e propósito
 
-Sou Lucas Bordalo Memoria, estudante de Ciência da Computação no CEUB Taguatinga. Estou construindo minha trajetória na área de tecnologia por meio dos estudos e de projetos próprios. Uso o GitHub para organizar o que desenvolvo e registrar minha evolução. Tenho explorado desenvolvimento web criando um portfólio pessoal. Também comecei a documentar o EcoGrow, uma proposta de acompanhamento agrícola com IoT. Quero ampliar meus conhecimentos com prática e manter os aprendizados fáceis de consultar. Este Study Hub será meu espaço organizado para disciplinas, atividades, anotações e projetos.
+Sou Lucas Bordalo Memoria, estudante de Ciência de Dados no CEUB Taguatinga. Estou construindo minha trajetória na área de tecnologia por meio dos estudos e de projetos próprios. Uso o GitHub para organizar o que desenvolvo e registrar minha evolução. Tenho explorado desenvolvimento web criando um portfólio pessoal. Também comecei a documentar o EcoGrow, uma proposta de acompanhamento agrícola com IoT. Quero ampliar meus conhecimentos com prática e manter os aprendizados fáceis de consultar. Este Study Hub será meu espaço organizado para disciplinas, atividades, anotações e projetos.
 
 **Foto ou avatar profissional:** a completar.  
 **E-mail de contato:** a completar com o endereço que deseja divulgar.  
